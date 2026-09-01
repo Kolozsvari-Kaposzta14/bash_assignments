@@ -1,3 +1,5 @@
+# Here is the output of the 'report.sh' file. 
+
 /bash_assignments
 radacina
 history 5 | tail -n 5

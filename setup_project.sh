@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Here, the script has been assigned the 'dir' variable and attributed the current working directory
+# path. After looking for it in all directories, the next step was to create the folders.
+# I've used the double ampersand symbol to concatenate commands and create all the 
+# required file extensions. 
+
 dir=/bash_assignments
 
 for dir in */

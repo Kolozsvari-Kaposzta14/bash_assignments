@@ -1,0 +1,3 @@
+/bash_assignments
+radacina
+history 5 | tail -n 5
